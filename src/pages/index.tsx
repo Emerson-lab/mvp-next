@@ -1,4 +1,4 @@
-export default function Home() {
+export default function App() {
   return (
     <nav className="flex sm:justify-center space-x-4">
       {[
